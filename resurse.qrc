@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background_gameplay.jpg</file>
+        <file>tank.png</file>
+    </qresource>
+</RCC>
